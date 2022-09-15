@@ -1,9 +1,11 @@
+from gettext import install
 from flask import Flask,render_template,url_for,request,jsonify
 from flask_cors import cross_origin
 import pandas as pd
 import numpy as np
 import datetime
 import pickle
+pip install python==3.8.12
 from collections.abc import Iterable
 
 
