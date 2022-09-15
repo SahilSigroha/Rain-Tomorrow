@@ -5,8 +5,7 @@ import pandas as pd
 import numpy as np
 import datetime
 import pickle
-pip install python==3.8.12
-from collections.abc import Iterable
+from collections.abc import iterable
 
 
 app = Flask(__name__, template_folder="template")
