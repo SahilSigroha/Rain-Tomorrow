@@ -7,7 +7,7 @@
 	font-family: "Poppins", sans-serif;
 	scroll-behavior: smooth;
 	scrollbar-width: thin;
-	--primary-color: #00b7c2;
+	--primary-color: #06c200;
 }
 
 section {
@@ -25,7 +25,7 @@ section a {
 section:nth-child(1) {
 	justify-content: flex-start;
 	background: linear-gradient(#0004, #0004),
-		url(https://images.pexels.com/photos/4297438/pexels-photo-4297438.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+		url(https://images.pexels.com/photos/763398/pexels-photo-763398.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 			no-repeat;
 	background-size: cover;
 	background-position: center;
